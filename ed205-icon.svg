@@ -9,6 +9,9 @@
    id="SVGRoot"
    sodipodi:docname="ed205-icon.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:export-filename="ed205-icon.png"
+   inkscape:export-xdpi="24"
+   inkscape:export-ydpi="24"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -291,8 +294,8 @@
        transform="matrix(1.2272636,0,0,1.2272636,-111.3062,55.073202)"><tspan
          x="195.67712"
          y="373.20538"
-         id="tspan2480"><tspan
+         id="tspan2541"><tspan
            style="text-align:center;text-anchor:middle;fill:#ffffff"
-           id="tspan2478">ED 205</tspan></tspan></text>
+           id="tspan2539">ED 205</tspan></tspan></text>
   </g>
 </svg>
